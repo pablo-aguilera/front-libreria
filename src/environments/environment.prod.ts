@@ -1,4 +1,4 @@
 ﻿export const environment = {
   production: true,
-  apiBase: 'https://backet-libreria.onrender.com/api', // o la URL real en prod
+  apiBase: 'https://render.com/docs/web-services#port-binding/api', // o la URL real en prod
 };
